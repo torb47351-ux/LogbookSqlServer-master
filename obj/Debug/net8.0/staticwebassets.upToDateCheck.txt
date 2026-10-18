@@ -1,0 +1,14 @@
+wwwroot\assistance.html
+wwwroot\beneficiaries.html
+wwwroot\css\style.css
+wwwroot\family-new.html
+wwwroot\family-update.html
+wwwroot\family.html
+wwwroot\index.html
+wwwroot\js\app.js
+wwwroot\js\family-new.js
+wwwroot\js\family-update.js
+wwwroot\js\family.js
+wwwroot\js\login.js
+wwwroot\login.html
+wwwroot\reports.html
